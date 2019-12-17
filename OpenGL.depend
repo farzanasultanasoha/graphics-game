@@ -1,0 +1,370 @@
+# depslib dependency file v1.0
+1542457441 source:f:\l-4 t-2\graphics sessonal\offline 1\circle move\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\l-4 t-2\graphics sessonal\offline 1\circle move\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1542457441 source:g:\l-4 t-2\graphics sessonal\offline 1\circle move\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\l-4 t-2\graphics sessonal\offline 1\circle move\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1558374256 source:f:\uiu\graphics lab sample codes\tutorial_1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\gl.h
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glu.h
+	<GL/gl.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1558374256 source:f:\uiu\graphics lab sample codes\tutorial_2\merged\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_2\merged\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1560270324 source:e:\uiu\graphics lab sample codes\tutorial_2\merged\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\uiu\graphics lab sample codes\tutorial_2\merged\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571546043 source:c:\users\ashiqur\desktop\merged\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\ashiqur\desktop\merged\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571544328 source:c:\users\ashiqur\desktop\merged\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544330 source:c:\users\ashiqur\desktop\merged\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544343 source:c:\users\ashiqur\desktop\merged\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544529 source:c:\users\ashiqur\desktop\merged\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544328 source:c:\users\student.lab10pc-06\music\on transformation\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\student.lab10pc-06\music\on transformation\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571544529 source:c:\users\student.lab10pc-06\music\on transformation\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544330 source:c:\users\student.lab10pc-06\music\on transformation\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544343 source:c:\users\student.lab10pc-06\music\on transformation\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1574577471 source:c:\users\student.lab10pc-06\music\on transformation\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544330 source:g:\online\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\online\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571544530 source:g:\online\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1574577472 source:g:\online\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544332 source:g:\online\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544344 source:g:\online\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544330 source:c:\users\student.lab10pc-10\desktop\online\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\student.lab10pc-10\desktop\online\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571544530 source:c:\users\student.lab10pc-10\desktop\online\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1574577472 source:c:\users\student.lab10pc-10\desktop\online\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544332 source:c:\users\student.lab10pc-10\desktop\online\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544344 source:c:\users\student.lab10pc-10\desktop\online\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544330 source:g:\graphics_lab\running animal\online\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\graphics_lab\running animal\online\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571544530 source:g:\graphics_lab\running animal\online\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1574577472 source:g:\graphics_lab\running animal\online\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544332 source:g:\graphics_lab\running animal\online\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544344 source:g:\graphics_lab\running animal\online\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544330 source:g:\graphics_lab\running animal - copy\online\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\graphics_lab\running animal - copy\online\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571544530 source:g:\graphics_lab\running animal - copy\online\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544332 source:g:\graphics_lab\running animal - copy\online\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544344 source:g:\graphics_lab\running animal - copy\online\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1576048966 source:g:\graphics_lab\running animal - copy\online\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544330 source:f:\graphics_lab\running animal - copy\online\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\graphics_lab\running animal - copy\online\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571544530 source:f:\graphics_lab\running animal - copy\online\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544332 source:f:\graphics_lab\running animal - copy\online\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544344 source:f:\graphics_lab\running animal - copy\online\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1576155078 source:f:\graphics_lab\running animal - copy\online\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544330 source:c:\users\farzana\desktop\running animal - copy\online\animation.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\farzana\desktop\running animal - copy\online\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1571544530 source:c:\users\farzana\desktop\running animal - copy\online\cmove.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544332 source:c:\users\farzana\desktop\running animal - copy\online\push_pop.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1571544344 source:c:\users\farzana\desktop\running animal - copy\online\sive_wave.c
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1576607157 source:c:\users\farzana\desktop\running animal - copy\online\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+
